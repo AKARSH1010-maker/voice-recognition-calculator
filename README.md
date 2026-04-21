@@ -3,7 +3,7 @@
 A modern web application built using "React.js" that allows users to perform calculations using both "manual input and voice commands".
 The app also includes a "real-time currency converter" powered by live API data.
 
- Live Demo
+ ## Live Demo 
 https://voice-recognition-calculator.vercel.app/
 
 ---
