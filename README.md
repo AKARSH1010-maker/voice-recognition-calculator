@@ -60,8 +60,7 @@ Tech Stack
 
 ---
 
-Created by-
-Akarsh Singh Sisoudia
-mailto:akarshsisoudia7@gmail.com
+## Author
+   Akarsh Singh Sisoudia
 
----
+
