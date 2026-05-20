@@ -8,7 +8,6 @@ https://voice-recognition-calculator.vercel.app/
 
 ---
 
- Features-
 
  Calculator
 * Basic arithmetic operations (+, −, ×, ÷)
