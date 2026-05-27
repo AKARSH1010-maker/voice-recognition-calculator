@@ -6,13 +6,10 @@ The app also includes a "real-time currency converter" powered by live API data.
  ## Live Demo 
 https://voice-recognition-calculator.vercel.app/
 
----
-
 
  Calculator
 * Basic arithmetic operations (+, −, ×, ÷)
 * Advanced functions:
-
   * Square root (√)
   * Square (x²)
   * Trigonometric functions (sin, cos, tan)
